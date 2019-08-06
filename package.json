@@ -1,0 +1,8 @@
+{
+  "name": "netlify-lp-version",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tsubasahonda/netlify-lp-version.git",
+  "author": "tsubasahonda <lenonystalicelight+tsubasahonda@gmail.com>",
+  "license": "MIT"
+}
